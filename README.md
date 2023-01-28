@@ -1,7 +1,7 @@
 ### Olá, eu sou o Robson Araújo!
 
 - 🔭 Hoje trabalho com suporte de TI
-- 🌱 Estudando: Java, Python, HTML, CSS, JavaScript e Ruby
+- 🌱 Estudando: Java, Python, Delphi, JavaScript e Ruby
 ##
 
 <div align="center">
