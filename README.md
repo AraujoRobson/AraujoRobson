@@ -9,10 +9,3 @@
   <img height="157em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=araujorobson&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="157em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=araujorobson&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-  
-
-
-![Snake animation](https://github.com/araujorobson/araujorobson/blob/output/github-contribution-grid-snake.svg)
-
-
