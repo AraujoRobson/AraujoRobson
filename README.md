@@ -1,7 +1,7 @@
 ### Olá, eu sou o Robson Araújo!
 
-- 🔭 Suporte de TI
-- 🌱 Java | Python | Delphi | JavaScript | TypeScript | Ruby on Rails | Angular
+- 🔭 Full Stack Developer
+- 🌱 Java | Quarkus | Angular | CockroachDB | Python | Delphi | JavaScript | TypeScript | Ruby on Rails
 ##
 
 <div align="center">
