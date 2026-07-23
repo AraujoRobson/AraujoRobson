@@ -1,7 +1,7 @@
 ### Olá, eu sou o Robson Araújo!
 
 - 🔭 Full Stack Developer
-- 🌱 Java | Quarkus | Angular | SQL | TypeScript | Ruby on Rails
+- https://robsonaraujo.com.br/
 ##
 
 <div align="center">
